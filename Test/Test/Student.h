@@ -10,6 +10,4 @@
 
 @interface Student : NSObject
 
-- (void)test;
-
 @end
