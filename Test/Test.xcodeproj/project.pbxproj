@@ -17,6 +17,7 @@
 		16348C171EBDC2CE00471839 /* TestUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 16348C161EBDC2CE00471839 /* TestUITests.m */; };
 		166012411F2E2A0C0064126B /* WCQCollectionReusableView.m in Sources */ = {isa = PBXBuildFile; fileRef = 166012401F2E2A0C0064126B /* WCQCollectionReusableView.m */; };
 		166012441F2E32550064126B /* WCQWaterfallLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = 166012431F2E32550064126B /* WCQWaterfallLayout.m */; };
+		166C6C111F30980A002730D8 /* Student.m in Sources */ = {isa = PBXBuildFile; fileRef = 166C6C101F30980A002730D8 /* Student.m */; };
 		167458B31EEE25AA00A2C3D7 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 16348BF81EBDC2CE00471839 /* ViewController.m */; };
 		167458B41EEE25AA00A2C3D7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 16348BF51EBDC2CE00471839 /* AppDelegate.m */; };
 		167458B51EEE25AA00A2C3D7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 16348BF21EBDC2CE00471839 /* main.m */; };
@@ -62,6 +63,8 @@
 		166012401F2E2A0C0064126B /* WCQCollectionReusableView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WCQCollectionReusableView.m; sourceTree = "<group>"; };
 		166012421F2E32550064126B /* WCQWaterfallLayout.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WCQWaterfallLayout.h; sourceTree = "<group>"; };
 		166012431F2E32550064126B /* WCQWaterfallLayout.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WCQWaterfallLayout.m; sourceTree = "<group>"; };
+		166C6C0F1F30980A002730D8 /* Student.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Student.h; sourceTree = "<group>"; };
+		166C6C101F30980A002730D8 /* Student.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Student.m; sourceTree = "<group>"; };
 		167458BD1EEE25AA00A2C3D7 /* Test copy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Test copy.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		167458BE1EEE25AB00A2C3D7 /* Test copy-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "Test copy-Info.plist"; path = "/Users/wcq/Desktop/Test/Test copy-Info.plist"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
@@ -129,6 +132,8 @@
 				16348BF71EBDC2CE00471839 /* ViewController.h */,
 				16348BF81EBDC2CE00471839 /* ViewController.m */,
 				166012421F2E32550064126B /* WCQWaterfallLayout.h */,
+				166C6C0F1F30980A002730D8 /* Student.h */,
+				166C6C101F30980A002730D8 /* Student.m */,
 				166012431F2E32550064126B /* WCQWaterfallLayout.m */,
 				1660123F1F2E2A0C0064126B /* WCQCollectionReusableView.h */,
 				166012401F2E2A0C0064126B /* WCQCollectionReusableView.m */,
@@ -330,6 +335,7 @@
 				16348BF91EBDC2CE00471839 /* ViewController.m in Sources */,
 				16348BF61EBDC2CE00471839 /* AppDelegate.m in Sources */,
 				1632D2EC1F2843EA00DD0C53 /* Person.m in Sources */,
+				166C6C111F30980A002730D8 /* Student.m in Sources */,
 				166012411F2E2A0C0064126B /* WCQCollectionReusableView.m in Sources */,
 				16348BF31EBDC2CE00471839 /* main.m in Sources */,
 			);
